@@ -1,6 +1,7 @@
 import React from "react";
 import poto from "../../pict/profile.jpg";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -29,7 +30,7 @@ const Navbar = () => {
           <a href="/">About</a>
         </div>
         <div className="m-auto border-b-4 border-[#7C8587]">
-          <a href="/skill">Skill</a>
+          <Link to="/skill">Skill</Link>
         </div>
         <div className="m-auto border-b-4 border-[#7C8587]">
           <a href="/education">Education</a>
