@@ -25,7 +25,7 @@ const Navbar = () => {
           </a>
         </div>
       </div>
-      <div className="bg-[#EFEFEF] mt-2 mx-auto w-3/4 justify-between flex h-12 rounded-2xl font-medium text-lg">
+      <div className="bg-[#EFEFEF] drop-shadow-xl mt-2 mx-auto w-3/4 justify-between flex h-12 rounded-2xl font-medium text-lg">
         <div className="m-auto border-b-4 border-[#7C8587]">
           <a href="/">About</a>
         </div>
