@@ -17,10 +17,10 @@ const Navbar = () => {
           </div>
         </div>
         <div className="mt-40 text-2xl flex ">
-          <a className="mr-2" href="https://www.linkedin.com/in/yoga-sulistyo-684b54253/">
+          <a target="blank" className="mr-2" href="https://www.linkedin.com/in/yoga-sulistyo-684b54253/">
             <FaLinkedin />
           </a>
-          <a className="mr-2" href="https://github.com/yogasulistyo">
+          <a target="blank" className="mr-2" href="https://github.com/yogasulistyo">
             <FaGithub />
           </a>
         </div>

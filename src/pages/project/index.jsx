@@ -28,10 +28,10 @@ const Project = () => {
             <div className="p-3 flex items-center">
               <h1 className="font-semibold text-xl">Warehouse App</h1>
               <div className="w-1/12 ml-2 flex items-center justify-around">
-                <a href="https://warehouse-delta.vercel.app">
+                <a target="blank" href="https://warehouse-delta.vercel.app">
                   <TbWorld size={25} onClick="{deploy}" className="cursor-pointer hover:opacity-50" />
                 </a>
-                <a href="https://github.com/yogasulistyo/Warehouse-App.git">
+                <a target="blank" href="https://github.com/yogasulistyo/Warehouse-App.git">
                   <SiGithub size={25} onClick="{github}" className="cursor-pointer hover:opacity-50" />
                 </a>
               </div>
@@ -63,7 +63,7 @@ const Project = () => {
             <div className="p-3 flex items-center">
               <h1 className="font-semibold text-xl">Alterra Academy Dashboard</h1>
               <div className=" ml-2 flex items-center justify-around">
-                <a href="https://github.com/yogasulistyo/Dashboard-Alterra.git">
+                <a target="blank" href="https://github.com/yogasulistyo/Dashboard-Alterra.git">
                   <SiGithub size={25} onClick="{github}" className="cursor-pointer hover:opacity-50" />
                 </a>
               </div>
@@ -92,7 +92,7 @@ const Project = () => {
             <div className="p-3 flex items-center">
               <h1 className="font-semibold text-xl">Altapedia</h1>
               <div className=" ml-2 flex items-center justify-around">
-                <a href="https://github.com/yogasulistyo/Dashboard-Alterra.git">
+                <a target="blank" href="https://github.com/yogasulistyo/Dashboard-Alterra.git">
                   <SiGithub size={25} onClick="{github}" className="cursor-pointer hover:opacity-50" />
                 </a>
               </div>
@@ -121,10 +121,10 @@ const Project = () => {
             <div className="p-3 flex items-center">
               <h1 className="font-semibold text-xl">MovieVerse</h1>
               <div className="w-1/12 ml-2 flex items-center justify-around">
-                <a href="https://my-movies-pearl.vercel.app">
+                <a target="blank" href="https://my-movies-pearl.vercel.app">
                   <TbWorld size={25} onClick="{deploy}" className="cursor-pointer hover:opacity-50" />
                 </a>
-                <a href="https://github.com/yogasulistyo/MovieVerse">
+                <a target="blank" href="https://github.com/yogasulistyo/MovieVerse">
                   <SiGithub size={25} onClick="{github}" className="cursor-pointer hover:opacity-50" />
                 </a>
               </div>
@@ -141,10 +141,10 @@ const Project = () => {
             <div className="p-3 flex items-center">
               <h1 className="font-semibold text-xl">TodoList App</h1>
               <div className="w-1/12 ml-2 flex items-center justify-around">
-                <a href="https://todo-list-app-sigma-one.vercel.app">
+                <a target="blank" href="https://todo-list-app-sigma-one.vercel.app">
                   <TbWorld size={25} onClick="{deploy}" className="cursor-pointer hover:opacity-50" />
                 </a>
-                <a href="https://github.com/yogasulistyo/todo-list-app.git">
+                <a target="blank" href="https://github.com/yogasulistyo/todo-list-app.git">
                   <SiGithub size={25} onClick="{github}" className="cursor-pointer hover:opacity-50" />
                 </a>
               </div>
