@@ -102,7 +102,7 @@ const Project = () => {
               Altapedia is a website created to make it easier for users to sell or buy a product like an online shop.
               <ul className="ml-4">
                 <li className="list-disc">Design UI/UX and wireframe using FIGMA</li>
-                <li className="list-disc">Slicing design to code using Next JS and React Bootstrap for styling</li>
+                <li className="list-disc">Slicing design to code using React JS and Tailwind CSS for styling</li>
                 <li className="list-disc">Integrate the app to the backend RESTful API.</li>
                 <li className="list-disc">Collaborate the project with the Backend and Quality Assurence Team via Trello, Github and Discord</li>
               </ul>
